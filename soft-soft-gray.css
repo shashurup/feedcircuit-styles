@@ -1,0 +1,9 @@
+body {
+    background-color: #443;
+    font-family: serif;
+    color: #dc9;
+}
+
+label.item-check svg {
+    fill: #f60;
+}
