@@ -4,7 +4,16 @@
 }
 
 .sidebar {
-  width: 50%;
+  width: 40%;
   margin-left: 2em;
+  margin-bottom: 1em;
   font-size: smaller;
+}
+
+.sidebar a {
+  text-decoration: none;
+}
+
+.sidebar h3 {
+  margin-bottom: 0.3em
 }
