@@ -25,3 +25,14 @@ figure.video div.wrapper {
 figure {
   max-width: 100%;
 }
+
+div.gallery li figure {
+  height: unset !important;
+}
+
+div.gallery li figure div.image {
+    background-color: transparent !important;
+    height: 270;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
