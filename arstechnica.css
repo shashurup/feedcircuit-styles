@@ -21,3 +21,7 @@
 figure.video div.wrapper {
    padding-bottom: 1em !important;
 }
+
+figure {
+  max-width: 100%;
+}
