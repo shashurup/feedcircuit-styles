@@ -36,3 +36,8 @@ div.gallery li figure div.image {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+figcaption {
+  margin-top: 1em;
+  font-size: smaller;
+}
