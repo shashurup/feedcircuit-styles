@@ -39,5 +39,19 @@ div.gallery li figure div.image {
 
 figcaption {
   margin-top: 1em;
+  margin-left: 1em;
   font-size: smaller;
+}
+
+figure {
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+div.gallery ul {
+  padding-inline-start: 0;
+}
+
+div.gallery li {
+  display: block;
 }
